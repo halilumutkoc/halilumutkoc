@@ -1,16 +1,15 @@
-## Hi there 👋
+## Halil Umut Koç
 
-<!--
-**halilumutkoc/halilumutkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student in Management Information Systems at Muğla Sıtkı Koçman University, focused on data preprocessing, natural language processing, and decision support systems.
 
-Here are some ideas to get you started:
+### Technical Focus
+- **Data & Analytics:** Data Preprocessing, Feature Engineering, SQL, Data Mining
+- **Programming & Tools:** Python (Pandas, NumPy, Scikit-learn), C# (.NET)
+- **Applied Areas:** Health Informatics, Open-Source Intelligence (OSINT), Decision Support Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Academic & Applied Work
+- **TÜBİTAK 2209-A:** Research on data preprocessing and decision support architecture utilizing heterogeneous tabular and clinical text data.
+- **Data & Project Management:** Hands-on experience in open-source data processing, structured information documentation, and ISO 29993 accredited project frameworks.
+
+---
+[LinkedIn](https://www.linkedin.com/in/halil-umut-koc/) • halilumutkoc35@gmail.com
